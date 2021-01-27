@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/engadi-react-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/engadi-react-app/static/js/main.6e099ecd.chunk.js",
+    "main.js.map": "/engadi-react-app/static/js/main.6e099ecd.chunk.js.map",
+    "runtime-main.js": "/engadi-react-app/static/js/runtime-main.8dac220c.js",
+    "runtime-main.js.map": "/engadi-react-app/static/js/runtime-main.8dac220c.js.map",
+    "static/js/2.ca86192a.chunk.js": "/engadi-react-app/static/js/2.ca86192a.chunk.js",
+    "static/js/2.ca86192a.chunk.js.map": "/engadi-react-app/static/js/2.ca86192a.chunk.js.map",
+    "static/js/3.45b4e9b9.chunk.js": "/engadi-react-app/static/js/3.45b4e9b9.chunk.js",
+    "static/js/3.45b4e9b9.chunk.js.map": "/engadi-react-app/static/js/3.45b4e9b9.chunk.js.map",
+    "index.html": "/engadi-react-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/engadi-react-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ca86192a.chunk.js.LICENSE.txt": "/engadi-react-app/static/js/2.ca86192a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/engadi-react-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dac220c.js",
+    "static/js/2.ca86192a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6e099ecd.chunk.js"
+  ]
+}

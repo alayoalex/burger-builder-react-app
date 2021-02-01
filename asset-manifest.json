@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/engadi-react-app/static/css/main.dd7cf021.chunk.css",
-    "main.js": "/engadi-react-app/static/js/main.c57fd9a4.chunk.js",
-    "main.js.map": "/engadi-react-app/static/js/main.c57fd9a4.chunk.js.map",
-    "runtime-main.js": "/engadi-react-app/static/js/runtime-main.402cdf0b.js",
-    "runtime-main.js.map": "/engadi-react-app/static/js/runtime-main.402cdf0b.js.map",
-    "static/js/2.8963ad46.chunk.js": "/engadi-react-app/static/js/2.8963ad46.chunk.js",
-    "static/js/2.8963ad46.chunk.js.map": "/engadi-react-app/static/js/2.8963ad46.chunk.js.map",
-    "static/js/3.dac76152.chunk.js": "/engadi-react-app/static/js/3.dac76152.chunk.js",
-    "static/js/3.dac76152.chunk.js.map": "/engadi-react-app/static/js/3.dac76152.chunk.js.map",
+    "main.css": "/engadi-react-app/static/css/main.244995a9.chunk.css",
+    "main.js": "/engadi-react-app/static/js/main.864ae670.chunk.js",
+    "main.js.map": "/engadi-react-app/static/js/main.864ae670.chunk.js.map",
+    "runtime-main.js": "/engadi-react-app/static/js/runtime-main.8175fbfe.js",
+    "runtime-main.js.map": "/engadi-react-app/static/js/runtime-main.8175fbfe.js.map",
+    "static/js/2.f3af3f84.chunk.js": "/engadi-react-app/static/js/2.f3af3f84.chunk.js",
+    "static/js/2.f3af3f84.chunk.js.map": "/engadi-react-app/static/js/2.f3af3f84.chunk.js.map",
+    "static/js/3.9e709904.chunk.js": "/engadi-react-app/static/js/3.9e709904.chunk.js",
+    "static/js/3.9e709904.chunk.js.map": "/engadi-react-app/static/js/3.9e709904.chunk.js.map",
     "index.html": "/engadi-react-app/index.html",
-    "static/css/main.dd7cf021.chunk.css.map": "/engadi-react-app/static/css/main.dd7cf021.chunk.css.map",
-    "static/js/2.8963ad46.chunk.js.LICENSE.txt": "/engadi-react-app/static/js/2.8963ad46.chunk.js.LICENSE.txt"
+    "static/css/main.244995a9.chunk.css.map": "/engadi-react-app/static/css/main.244995a9.chunk.css.map",
+    "static/js/2.f3af3f84.chunk.js.LICENSE.txt": "/engadi-react-app/static/js/2.f3af3f84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.402cdf0b.js",
-    "static/js/2.8963ad46.chunk.js",
-    "static/css/main.dd7cf021.chunk.css",
-    "static/js/main.c57fd9a4.chunk.js"
+    "static/js/runtime-main.8175fbfe.js",
+    "static/js/2.f3af3f84.chunk.js",
+    "static/css/main.244995a9.chunk.css",
+    "static/js/main.864ae670.chunk.js"
   ]
 }

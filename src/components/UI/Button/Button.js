@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Button.css'
+import './Button.css';
 
 const addClasses = (args) => {
     let classes = ['Button'];

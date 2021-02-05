@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/engadi-react-app/static/css/main.b2713ad2.chunk.css",
-    "main.js": "/engadi-react-app/static/js/main.9abaca3a.chunk.js",
-    "main.js.map": "/engadi-react-app/static/js/main.9abaca3a.chunk.js.map",
-    "runtime-main.js": "/engadi-react-app/static/js/runtime-main.1c056338.js",
-    "runtime-main.js.map": "/engadi-react-app/static/js/runtime-main.1c056338.js.map",
-    "static/js/2.f3af3f84.chunk.js": "/engadi-react-app/static/js/2.f3af3f84.chunk.js",
-    "static/js/2.f3af3f84.chunk.js.map": "/engadi-react-app/static/js/2.f3af3f84.chunk.js.map",
-    "static/js/3.907f9c36.chunk.js": "/engadi-react-app/static/js/3.907f9c36.chunk.js",
-    "static/js/3.907f9c36.chunk.js.map": "/engadi-react-app/static/js/3.907f9c36.chunk.js.map",
+    "main.css": "/engadi-react-app/static/css/main.3184eac6.chunk.css",
+    "main.js": "/engadi-react-app/static/js/main.ef1b6bcf.chunk.js",
+    "main.js.map": "/engadi-react-app/static/js/main.ef1b6bcf.chunk.js.map",
+    "runtime-main.js": "/engadi-react-app/static/js/runtime-main.2c362102.js",
+    "runtime-main.js.map": "/engadi-react-app/static/js/runtime-main.2c362102.js.map",
+    "static/js/2.5840882b.chunk.js": "/engadi-react-app/static/js/2.5840882b.chunk.js",
+    "static/js/2.5840882b.chunk.js.map": "/engadi-react-app/static/js/2.5840882b.chunk.js.map",
+    "static/js/3.c255fc92.chunk.js": "/engadi-react-app/static/js/3.c255fc92.chunk.js",
+    "static/js/3.c255fc92.chunk.js.map": "/engadi-react-app/static/js/3.c255fc92.chunk.js.map",
     "index.html": "/engadi-react-app/index.html",
-    "static/css/main.b2713ad2.chunk.css.map": "/engadi-react-app/static/css/main.b2713ad2.chunk.css.map",
-    "static/js/2.f3af3f84.chunk.js.LICENSE.txt": "/engadi-react-app/static/js/2.f3af3f84.chunk.js.LICENSE.txt"
+    "static/css/main.3184eac6.chunk.css.map": "/engadi-react-app/static/css/main.3184eac6.chunk.css.map",
+    "static/js/2.5840882b.chunk.js.LICENSE.txt": "/engadi-react-app/static/js/2.5840882b.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.ec69c7f6.png": "/engadi-react-app/static/media/burger-logo.ec69c7f6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c056338.js",
-    "static/js/2.f3af3f84.chunk.js",
-    "static/css/main.b2713ad2.chunk.css",
-    "static/js/main.9abaca3a.chunk.js"
+    "static/js/runtime-main.2c362102.js",
+    "static/js/2.5840882b.chunk.js",
+    "static/css/main.3184eac6.chunk.css",
+    "static/js/main.ef1b6bcf.chunk.js"
   ]
 }

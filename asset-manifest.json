@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/engadi-react-app/static/css/main.d5aa05d3.chunk.css",
-    "main.js": "/engadi-react-app/static/js/main.c082f3e1.chunk.js",
-    "main.js.map": "/engadi-react-app/static/js/main.c082f3e1.chunk.js.map",
-    "runtime-main.js": "/engadi-react-app/static/js/runtime-main.6adb3c2d.js",
-    "runtime-main.js.map": "/engadi-react-app/static/js/runtime-main.6adb3c2d.js.map",
-    "static/js/2.5840882b.chunk.js": "/engadi-react-app/static/js/2.5840882b.chunk.js",
-    "static/js/2.5840882b.chunk.js.map": "/engadi-react-app/static/js/2.5840882b.chunk.js.map",
-    "static/js/3.fe7ba9df.chunk.js": "/engadi-react-app/static/js/3.fe7ba9df.chunk.js",
-    "static/js/3.fe7ba9df.chunk.js.map": "/engadi-react-app/static/js/3.fe7ba9df.chunk.js.map",
-    "index.html": "/engadi-react-app/index.html",
-    "static/css/main.d5aa05d3.chunk.css.map": "/engadi-react-app/static/css/main.d5aa05d3.chunk.css.map",
-    "static/js/2.5840882b.chunk.js.LICENSE.txt": "/engadi-react-app/static/js/2.5840882b.chunk.js.LICENSE.txt",
-    "static/media/burger-logo.ec69c7f6.png": "/engadi-react-app/static/media/burger-logo.ec69c7f6.png"
+    "main.css": "/burger-builder-react-app/static/css/main.d5aa05d3.chunk.css",
+    "main.js": "/burger-builder-react-app/static/js/main.1b3e362b.chunk.js",
+    "main.js.map": "/burger-builder-react-app/static/js/main.1b3e362b.chunk.js.map",
+    "runtime-main.js": "/burger-builder-react-app/static/js/runtime-main.5fbb54fb.js",
+    "runtime-main.js.map": "/burger-builder-react-app/static/js/runtime-main.5fbb54fb.js.map",
+    "static/js/2.1247c925.chunk.js": "/burger-builder-react-app/static/js/2.1247c925.chunk.js",
+    "static/js/2.1247c925.chunk.js.map": "/burger-builder-react-app/static/js/2.1247c925.chunk.js.map",
+    "static/js/3.6ecd7fba.chunk.js": "/burger-builder-react-app/static/js/3.6ecd7fba.chunk.js",
+    "static/js/3.6ecd7fba.chunk.js.map": "/burger-builder-react-app/static/js/3.6ecd7fba.chunk.js.map",
+    "index.html": "/burger-builder-react-app/index.html",
+    "static/css/main.d5aa05d3.chunk.css.map": "/burger-builder-react-app/static/css/main.d5aa05d3.chunk.css.map",
+    "static/js/2.1247c925.chunk.js.LICENSE.txt": "/burger-builder-react-app/static/js/2.1247c925.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.ec69c7f6.png": "/burger-builder-react-app/static/media/burger-logo.ec69c7f6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6adb3c2d.js",
-    "static/js/2.5840882b.chunk.js",
+    "static/js/runtime-main.5fbb54fb.js",
+    "static/js/2.1247c925.chunk.js",
     "static/css/main.d5aa05d3.chunk.css",
-    "static/js/main.c082f3e1.chunk.js"
+    "static/js/main.1b3e362b.chunk.js"
   ]
 }

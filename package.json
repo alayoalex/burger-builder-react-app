@@ -1,6 +1,6 @@
 {
-  "homepage": "http://alayoalex.github.io/engadi-react-app",
-  "name": "engadi-react-app",
+  "homepage": "http://alayoalex.github.io/burger-builder-react-app",
+  "name": "burger-builder-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

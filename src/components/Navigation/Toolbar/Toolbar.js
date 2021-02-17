@@ -1,9 +1,10 @@
 import React from 'react';
 
-import Logo from '../../Logo/Logo';
-import NavigationItems from '../NavigationItems/NavigationItems';
-import './Toolbar.css';
 import DrawerToggle from '../SideDrawer/DrawerToggle/DrawerToggle';
+import NavigationItems from '../NavigationItems/NavigationItems';
+
+import Logo from '../../Logo/Logo';
+import './Toolbar.css';
 
 const toolbar = (props) => (
     <header className={'Toolbar'}>
